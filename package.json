@@ -1,7 +1,7 @@
 {
-  "name": "by.sinti.lowpolyparticlefx",
+  "name": "by.sinti.lowpolyparticlefx.urp",
   "version": "1.0.0",
-  "displayName": "Polygon Sinti Particle FX",
+  "displayName": "Polygon Sinti Particle FX URP",
   "description": "Low poly FX Effects Repack",
   "unity": "2021.1",
   "documentationUrl": "",
@@ -9,7 +9,8 @@
   "licensesUrl": "https://github.com/jobpatchh/Polyg_Sinti_Particle_FX_Pack/blob/main/LICENSE",
   "keywords": [
     "3d",
-    "low poly"
+    "low poly",
+	"FX"
   ],
   "author": {
     "name": "jobpatchh",
