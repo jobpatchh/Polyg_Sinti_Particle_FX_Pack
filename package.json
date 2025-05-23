@@ -1,0 +1,23 @@
+{
+  "name": "by.sinti.lowpolyParticleFx",
+  "version": "1.6.3",
+  "displayName": "Polygon Sinti Particle FX",
+  "description": "Low poly FX Effects",
+  "unity": "2021.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/jobpatchh/Polyg_Sinti_Particle_FX_Pack/blob/main/LICENSE",
+  "keywords": [
+    "3d",
+    "low poly"
+  ],
+  "author": {
+    "name": "jobpatchh",
+    "email": "user@noreply.com",
+    "url": "https://github.com/jobpatchh"
+  },
+  "type": "3d",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "11.0.0"
+  }
+}
