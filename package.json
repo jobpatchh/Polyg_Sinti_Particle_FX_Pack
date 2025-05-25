@@ -20,5 +20,12 @@
   "type": "3d",
   "dependencies": {
     "com.unity.render-pipelines.universal": "11.0.0"
-  }
+  },
+  "samples": [
+	{
+		"displayName": "Particle FX Pack",
+		"description": "Particle FX Pack samples",
+		"path": "Samples~/Particle FX Pack"
+	}
+    ]
 }
